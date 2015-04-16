@@ -3,11 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
-# THANKS
-
-    <name>
+    Dana Merrick - @DanaMerrick
 
 # TECHNOLOGY COLOPHON
 
